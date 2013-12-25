@@ -1,0 +1,2 @@
+module LoadsheddingHelper
+end
